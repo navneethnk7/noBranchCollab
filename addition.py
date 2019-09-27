@@ -1,5 +1,5 @@
 def addition(a,b):
-	return(a-b)
+	return(a+b)
 
-add = sub(5,4)
+add = addition(5,4)
 print(add)
